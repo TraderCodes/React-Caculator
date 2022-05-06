@@ -4,9 +4,8 @@ import './index.css';
 import App from './App';
 
 function Gpp() {
-
-      return <App />;
-
+   return <App />;
 }
 
 ReactDOM.render(<Gpp />, document.getElementById('root'));
+

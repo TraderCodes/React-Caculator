@@ -6,7 +6,7 @@
 
 html,
 body {
-   background: linear-gradient(to right, #0ba9f8, #4be450);
+   background: linear-gradient(to right, #18262c, #89908a);
    margin: 0;
 }
 .calculator-grid {
@@ -23,7 +23,7 @@ body {
 }
 .output {
    grid-column: 1/-1;
-   background-color: rgba(228, 228, 228, 0.619);
+   background-color: rgba(8, 3, 3, 0.482);
    border-radius: 4px;
    display: flex;
    flex-direction: column;
